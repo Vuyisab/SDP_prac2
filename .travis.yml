@@ -1,6 +1,5 @@
 language: csharp
 mono: none
-solution: Oware.sln
 dotnet: 5.0
 script:
  - dotnet restore
