@@ -4,8 +4,8 @@ dotnet: 5.0
 solution: Oware.sln
 script: dotnet restore
 os: 
-  - linux
   - osx
+  - linux
 dist: focal
 
 
