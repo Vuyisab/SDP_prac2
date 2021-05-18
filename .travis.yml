@@ -1,10 +1,8 @@
 language: csharp
 mono: none
 dotnet: 5.0
-script:
- - dotnet restore
-
+script: dotnet restore
 os:
-  - linux
   - osx
+  - focal
   
