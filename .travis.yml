@@ -3,6 +3,10 @@ mono: none
 dotnet: 5.0
 script: dotnet restore
 os:
+  - linux
   - osx
-  - focal
+dist: focal
+
+
+  
   
