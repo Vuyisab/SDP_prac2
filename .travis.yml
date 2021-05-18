@@ -4,6 +4,6 @@ solution: Oware.sln
 dotnet: 5.0
 script:
  - dotnet restore
-OS: 
-  - Focal Fossa Ubuntu Linux distribution
-  - OSX
+os: 
+  - focal
+  - osx
